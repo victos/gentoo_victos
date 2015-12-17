@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <repositories version="1.0">
-  <repo priority="50"quality="experimental" status="unofficial">
+  <repo priority="50" quality="experimental" status="unofficial">
     <name><![CDATA[gentoo_victos]]></name>
     <description><![CDATA[Victos Overlay]]></description>
     <homepage>http://github.com/victos/gentoo_victos</homepage>
