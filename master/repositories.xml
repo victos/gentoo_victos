@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[gentoo_victos]]></name>
+    <description lang="en"><![CDATA[Victos Overlay]]></description>
+    <homepage>http://github.com/victos/gentoo_victos</homepage>
+    <owner type="person">
+      <email>xkevin.hk@gmail.com</email>
+      <name><![CDATA[Allen Hunter]]></name>
+    </owner>
+    <source type="git">git://github.com/victos/gentoo_victos.git</source>
+  </repo>
+</repositories>
